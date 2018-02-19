@@ -7,4 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\PublishRelease\PublishRelease.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Terminal.Gui" Version="0.4.0" />
+  </ItemGroup>
 </Project>
